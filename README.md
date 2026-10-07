@@ -1,4 +1,5 @@
 # E-Commerce Supply Chain Performance Dashboard
+[![License: MIT](https://shields.io)](https://opensource.org)
 
 An interactive Power BI dashboard engineered to analyze and optimize supply chain efficiency, logistics performance, and warehouse delivery metrics for an e-commerce platform.
 

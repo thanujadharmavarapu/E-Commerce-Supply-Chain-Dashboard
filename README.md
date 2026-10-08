@@ -19,7 +19,7 @@ The initial dashboard provides the foundation for monitoring shipment
 volume, delivery performance, customer experience, product cost, prior
 purchases, support calls, and logistics distribution.
 
-![Milestone 1 Dashboard](dashboard-previews/01-milestone-1-overview.png)
+![Preview 1](preview1.png)
 
 ------------------------------------------------------------------------
 
@@ -29,8 +29,7 @@ The Inventory Analysis page presents inventory-related KPIs,
 product-category inventory, warehouse-level inventory, inventory trends,
 and detailed inventory records.
 
-![Inventory
-Analysis](dashboard-previews/02-milestone-2-inventory-analysis.png)
+![Preview 2](preview2.png)
 
 ### Milestone 2 --- Delivery Performance Analysis
 
@@ -38,8 +37,7 @@ The Delivery Performance page analyzes on-time versus delayed
 deliveries, warehouse-level delivery performance, and delivery trends
 over time.
 
-![Delivery Performance
-Analysis](dashboard-previews/03-milestone-2-delivery-performance.png)
+![Preview 3](preview3.png)
 
 ### Milestone 2 --- Drill-Down & Variance Analysis
 
@@ -47,8 +45,7 @@ This page provides drill-down analysis and variance comparisons across
 the supply chain, including inventory trends and warehouse-level
 variance.
 
-![Drill-Down and Variance
-Analysis](dashboard-previews/04-milestone-2-drilldown-variance.png)
+![Preview 4](preview4.png)
 
 ------------------------------------------------------------------------
 
@@ -58,8 +55,7 @@ The transportation dashboard focuses on shipment cost, average shipment
 cost, fulfillment, on-time performance, supplier analysis, carrier
 analysis, and route-level transportation costs.
 
-![Transportation
-Analysis](dashboard-previews/05-milestone-3-transportation-analysis.png)
+![Preview 5](preview5.png)
 
 ------------------------------------------------------------------------
 
@@ -69,8 +65,7 @@ The Warehouse Efficiency dashboard monitors operational KPIs such as
 total orders, shipped quantity, capacity utilisation, on-time delivery,
 and picking accuracy, with supporting warehouse-level visuals.
 
-![Warehouse Efficiency
-Analysis](dashboard-previews/06-milestone-4-warehouse-efficiency.png)
+![Preview 6](preview6.png)
 
 ### Milestone 4 --- Executive Overview Analysis
 
@@ -79,8 +74,7 @@ management-focused dashboard with operating cost, regional orders,
 warehouse cost distribution, delivery status, monthly order trends, and
 interactive slicers.
 
-![Executive Overview
-Analysis](dashboard-previews/07-milestone-4-executive-overview.png)
+![Preview 7](preview7.png)
 
 ### Milestone 4 --- Dashboard Performance Optimization
 
@@ -88,8 +82,7 @@ The Performance Optimization page provides a detailed table view that
 supports inspection of shipment, warehouse, region, product category,
 shipment mode, inventory, weight, and delivery-status information.
 
-![Dashboard Performance
-Optimization](dashboard-previews/08-milestone-4-performance-optimization.png)
+![Preview 8](preview8.png)
 
 ------------------------------------------------------------------------
 
